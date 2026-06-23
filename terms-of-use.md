@@ -9,7 +9,7 @@ title: Terms of Use
 
 ## 1. Introduction
 
-Thank you for choosing to use the services provided by Hleb Siarhei. These Terms of Use (referred to as "Terms") outline the binding legal agreement governing your access to and interaction with our service, including the Antique: AI Value Appraiser app, regardless of the platform or device you use. This includes computers, mobile devices, or any other means of access. By using, installing, downloading, or otherwise engaging with our service, you confirm that you have thoroughly reviewed and agreed to these Terms and associated policies, such as our Privacy Policy. If you do not agree or fully understand the Terms, you must refrain from using, installing, or accessing the service and immediately uninstall any associated applications.
+Thank you for choosing to use the services provided by Hleb Siarhei. These Terms of Use (referred to as "Terms") outline the binding legal agreement governing your access to and interaction with our service, including the AI Antique Identifier - Vintage Appraiser & Value Scan app, regardless of the platform or device you use. This includes computers, mobile devices, or any other means of access. By using, installing, downloading, or otherwise engaging with our service, you confirm that you have thoroughly reviewed and agreed to these Terms and associated policies, such as our Privacy Policy. If you do not agree or fully understand the Terms, you must refrain from using, installing, or accessing the service and immediately uninstall any associated applications.
 
 The Terms, along with any additional policies referenced here, define the mutual obligations between you and us. If you do not accept these conditions, you are not permitted to use the service. Terms such as "you" and "user" refer to any individual or entity utilizing the service. By engaging with the service, you represent and confirm that you possess the necessary authority, capacity, and understanding to agree to and adhere to these Terms.
 
@@ -31,7 +31,7 @@ Additionally, you bear full responsibility for any costs incurred while accessin
 
 ## 4. Appraisals and Value Estimates
 
-Antique: AI Value Appraiser uses artificial intelligence to identify items and estimate their age, origin, and market value. All identifications and value estimates are provided for informational purposes only and do not constitute a certified appraisal, professional advice, or a guarantee of authenticity or worth. You are solely responsible for any financial, purchasing, or selling decisions you make based on the service, and we recommend consulting a qualified professional before relying on any estimate.
+AI Antique Identifier - Vintage Appraiser & Value Scan uses artificial intelligence to identify items and estimate their age, origin, and market value. All identifications and value estimates are provided for informational purposes only and do not constitute a certified appraisal, professional advice, or a guarantee of authenticity or worth. You are solely responsible for any financial, purchasing, or selling decisions you make based on the service, and we recommend consulting a qualified professional before relying on any estimate.
 
 ## 5. Third-Party Content
 

@@ -7,13 +7,13 @@ title: Privacy Policy
 
 **Effective Date:** June 2026
 
-Hleb Siarhei values your privacy and is dedicated to ensuring the security of any information collected from or about you. This Privacy Policy outlines how we handle Personal Information obtained when you interact with our website, applications, and services, including the Antique: AI Value Appraiser app (collectively, the "Services").
+Hleb Siarhei values your privacy and is dedicated to ensuring the security of any information collected from or about you. This Privacy Policy outlines how we handle Personal Information obtained when you interact with our website, applications, and services, including the AI Antique Identifier - Vintage Appraiser & Value Scan app (collectively, the "Services").
 
 ## 1. Personal Information We Collect
 
 ### Primary Account Information
 
-To enhance your experience and facilitate communication, Antique: AI Value Appraiser collects primary account details. This information is solely used for sending notifications, updates, and essential information related to our services. Your primary account data is never shared with third parties without your explicit consent and is not utilized for purposes beyond improving your app experience.
+To enhance your experience and facilitate communication, AI Antique Identifier - Vintage Appraiser & Value Scan collects primary account details. This information is solely used for sending notifications, updates, and essential information related to our services. Your primary account data is never shared with third parties without your explicit consent and is not utilized for purposes beyond improving your app experience.
 
 ### Information You Provide
 
@@ -87,7 +87,7 @@ We implement reasonable measures to safeguard your Personal Information. However
 
 ## 8. Children's Privacy
 
-Antique: AI Value Appraiser is not directed toward children under the age of 13, and we do not knowingly collect personal data from them.
+AI Antique Identifier - Vintage Appraiser & Value Scan is not directed toward children under the age of 13, and we do not knowingly collect personal data from them.
 
 ## 9. International Users
 
